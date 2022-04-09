@@ -102,3 +102,11 @@ dist
 
 # TernJS port file
 .tern-port
+
+# custom
+.DS_Store
+.vscode/settings.json
+cache/
+.parcel-cache/
+dist/
+publish/
