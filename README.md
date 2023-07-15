@@ -1,5 +1,12 @@
 # excalibur-parcel2-vscode-debuggable-template
 
+This repository is **Deprecated** .
+Please use
+[Vite template](https://github.com/tenpaMk2/excalibur-vite-vscode-debuggable-template)
+instead.
+
+---
+
 Excalibur.js Parcel2 VSCode debuggable template.
 
 ![debug](./imgs/debug.png)
